@@ -1,0 +1,24 @@
+HostName; DESKTOP-BKMQTBD
+PortNumber; 9999
+SimulationModelPath; \\DESKTOP-BKMQTBD\DDDClient\SimulationModel.xml
+ScenarioSchemaPath; \\DESKTOP-BKMQTBD\DDDClient\DDDSchema_4_2.xsd
+EventLogDirectory; \\DESKTOP-BKMQTBD\DDDClient\
+EventLogType; LIMITED
+DefaultScenarioPath; \\DESKTOP-BKMQTBD\DDDClient\DDD_4_2_Scenario.xml
+UseStrongPasswords; True
+UseObjectLog; False
+UsePerformanceLog; False
+ShowScoreSummary; False
+HLAExport; False
+HLAFederationExecutionName; 
+HLAFederationFilePath; 
+HLA XML FilePath; 
+Enable Voice Server; False
+Voice Server Hostname; localhost
+Voice Server Port; 10300
+Voice Server Admin Username; admin
+Voice Server Admin Password; admin
+Voice Server User Password; user
+Voice Server Record Channel Traffic; False
+Voice Server Audio Log Directory; D:\DDDVoiceRecordings
+ForkReplaySpeed; 20
